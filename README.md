@@ -2,7 +2,7 @@
 
 Env: Ubuntu 20.04
 
-1. Install
+## Install
 
 ```
 wget http://www.mlpack.org/files/mlpack-3.2.2.tar.gz
@@ -22,7 +22,7 @@ make -j4
 sudo make install
 ```
 
-2. Edit mlpack-config.cmake
+## Edit mlpack-config.cmake
    
 
 ```
